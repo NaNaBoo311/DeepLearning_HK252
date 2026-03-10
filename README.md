@@ -1,4 +1,4 @@
-dl-course-project/
+```dl-course-project/
 │
 ├── README.md
 ├── .gitignore
@@ -54,3 +54,4 @@ dl-course-project/
 ├── dataloaders.py
 ├── metrics.py
 └── training_utils.py
+```
